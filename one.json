@@ -17,8 +17,8 @@
         "description": "desc2",
         "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/2.JPG",
         "course": {
-            "noOfVideos": 0,
-            "price": 0
+            "noOfVideos": 150,
+            "price": 20000
         },
         "about": {
             "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/2.JPG",
