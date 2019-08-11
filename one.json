@@ -4,8 +4,8 @@
         "description": "လုပ်ငန်းရှင် - SHAKE Bubble Tea & Restaurant",
         "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/11.jpg",
         "course": {
-            "noOfVideos": 10,
-            "price": 2000
+            "noOfVideos": "၅ ခု",
+            "price": "လစဉ် ၃၀၀၀ ကျပ် "
         },
         "about": {
             "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/11.jpg",
@@ -17,8 +17,8 @@
         "description": "အထူးစားဖိုမှူး",
         "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/22.jpg",
         "course": {
-            "noOfVideos": 150,
-            "price": 20000
+            "noOfVideos": "၅ ခု",
+            "price": "လစဉ် ၃၀၀၀ ကျပ် "
         },
         "about": {
             "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/22.jpg",
@@ -30,8 +30,8 @@
         "description": "အထူးစားဖိုမှူး",
         "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/33.jpg",
         "course": {
-            "noOfVideos": 20,
-            "price": "5000 MMK"
+            "noOfVideos": "၅ ခု",
+            "price": "လစဉ် ၃၀၀၀ ကျပ် "
         },
         "about": {
             "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/33.jpg",
