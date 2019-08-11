@@ -4,15 +4,15 @@
         "description": "desc1",
         "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/1.JPG",
         "course": {
-            "noOfVideos": 0,
-            "price": 0
+            "noOfVideos": 10,
+            "price": 2000
         },
         "about": {
             "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/1.JPG",
-            "descripion": "about deesc 1"
+            "description": "about deesc 1"
         }
     },
-    "two": {
+    "two": {    
         "name": "Name2",
         "description": "desc2",
         "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/2.JPG",
@@ -22,7 +22,7 @@
         },
         "about": {
             "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/2.JPG",
-            "descripion": "about deesc 2"
+            "description": "about deesc 2"
         }
     },
     "three": {
@@ -35,7 +35,7 @@
         },
         "about": {
             "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/3.JPG",
-            "descripion": "about deesc 3"
+            "description": "about deesc 3"
         }
     }
 }
