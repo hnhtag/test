@@ -30,8 +30,8 @@
         "description": "desc3",
         "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/3.JPG",
         "course": {
-            "noOfVideos": 0,
-            "price": 0
+            "noOfVideos": 20,
+            "price": "5000 MMK"
         },
         "about": {
             "imageURL": "https://raw.githubusercontent.com/hnhtag/test/master/images/3.JPG",
