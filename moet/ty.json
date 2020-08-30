@@ -2,9 +2,12 @@
     "thankyou": "Dear participants,<br><br>It has been an honor to have you present in our Online Expo “Myanmar International Expo of Organic & Natural Products” and thanks for taking the time out of your busy schedules to attend the Business Matching with China, Japan and Singapore during expo. Your participation ensured a great success of our Expo. Sponsors will be honored with a certificate of appreciation and a certificate of participation will also be granted to all participants. We hope to invite you again soon. Please keep visiting us for further events.<br><br>Thank you.<br>MOEP Team",
     "videoUrl": "https://www.youtube.com/embed/LymqUKedYkI",
     "count": {
-        "exhibitor": 50,
-        "visitor": 94,
-        "day": 7
+        "public_visitor": 183009,
+        "visitor_buyer": 520,
+        "local_exhibitor": 42,
+        "international_exhibitor": 9,
+        "diamond_sponsor": 3,
+        "platinum_sponsor": 1
     },
     "motto": "Myanmar, Making the right buying decision",
     "registration": "Preregister for the Coming Events"
